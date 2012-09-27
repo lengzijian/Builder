@@ -1,8 +1,9 @@
 builder mode
 
-install£º
+install:
     make
     ./builder
 
-more£ºhttp://blog.csdn.net/lengzijian/article/details/8025091
+more:
+    http://blog.csdn.net/lengzijian/article/details/8025091
 
